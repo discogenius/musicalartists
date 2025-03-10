@@ -1,0 +1,250 @@
+	1.	ABBA
+	2.	AC/DC
+	3.	Adele
+	4.	Aerosmith
+	5.	A-ha
+	6.	Air
+	7.	Alanis Morissette
+	8.	Alice Cooper
+	9.	Alice in Chains
+	10.	Alison Krauss
+	11.	Allman Brothers Band
+	12.	Alt-J
+	13.	America
+	14.	Amy Winehouse
+	15.	André 3000
+	16.	Andrew Bird
+	17.	Angel Olsen
+	18.	Animal Collective
+	19.	Annie Lennox
+	20.	Arctic Monkeys
+	21.	Aretha Franklin
+	22.	Ariana Grande
+	23.	Arlo Parks
+	24.	Art Blakey
+	25.	Art Garfunkel
+	26.	Aswad
+	27.	Audioslave
+	28.	Avril Lavigne
+	29.	B.B. King
+	30.	Bad Company
+	31.	Badfinger
+	32.	Band of Horses
+	33.	Barbra Streisand
+	34.	Barry White
+	35.	Basement Jaxx
+	36.	Bastille
+	37.	Bat for Lashes
+	38.	Bauhaus
+	39.	Beach House
+	40.	Beastie Boys
+	41.	Beck
+	42.	Bee Gees
+	43.	Belle and Sebastian
+	44.	Ben E. King
+	45.	Ben Howard
+	46.	Beyoncé
+	47.	Big Star
+	48.	Bill Evans
+	49.	Billie Eilish
+	50.	Billie Holiday
+	51.	Billy Idol
+	52.	Billy Joel
+	53.	Björk
+	54.	Black Crowes
+	55.	Black Flag
+	56.	Black Keys
+	57.	Blink-182
+	58.	Blondie
+	59.	Blur
+	60.	Bob Dylan
+	61.	Bob Marley
+	62.	Bobby Womack
+	63.	Bon Iver
+	64.	Bon Jovi
+	65.	Bonnie Raitt
+	66.	Boston
+	67.	Boyz II Men
+	68.	Brandi Carlile
+	69.	Brian Eno
+	70.	Brian Wilson
+	71.	Bright Eyes
+	72.	Britney Spears
+	73.	Bruce Springsteen
+	74.	Bruno Mars
+	75.	Bryan Adams
+	76.	Bryan Ferry
+	77.	Buddy Holly
+	78.	Buffalo Springfield
+	79.	Busta Rhymes
+	80.	Buzzcocks
+	81.	Candi Staton
+	82.	Can
+	83.	Carly Rae Jepsen
+	84.	Carly Simon
+	85.	Carole King
+	86.	Cat Power
+	87.	Cat Stevens
+	88.	Charli XCX
+	89.	Charles Mingus
+	90.	Charlie Parker
+	91.	Chaka Khan
+	92.	Cheap Trick
+	93.	Chemical Brothers
+	94.	Chic
+	95.	Childish Gambino
+	96.	Chris Isaak
+	97.	Chris Stapleton
+	98.	Chuck Berry
+	99.	Clairo
+	100.	Clean Bandit
+	101.	Coldplay
+	102.	Counting Crows
+	103.	Cream
+	104.	Creedence Clearwater Revival
+	105.	Crosby, Stills, Nash & Young
+	106.	Crowded House
+	107.	Curtis Mayfield
+	108.	Daft Punk
+	109.	Damien Rice
+	110.	Daniel Caesar
+	111.	Danny Brown
+	112.	David Bowie
+	113.	David Byrne
+	114.	David Gilmour
+	115.	De La Soul
+	116.	Dead Kennedys
+	117.	Dean Martin
+	118.	Death Cab for Cutie
+	119.	Deep Purple
+	120.	Def Leppard
+	121.	Depeche Mode
+	122.	Destiny’s Child
+	123.	Dexys Midnight Runners
+	124.	Diana Ross
+	125.	Dido
+	126.	Dinosaur Jr.
+	127.	Dire Straits
+	128.	Disclosure
+	129.	Dizzee Rascal
+	130.	Dolly Parton
+	131.	Donovan
+	132.	Doobie Brothers
+	133.	Doves
+	134.	Dr. Dre
+	135.	Dr. John
+	136.	Drake
+	137.	Dua Lipa
+	138.	Duran Duran
+	139.	Dusty Springfield
+	140.	ELO
+	141.	Eagles
+	142.	Earth, Wind & Fire
+	143.	Echo & The Bunnymen
+	144.	Ed Sheeran
+	145.	Editors
+	146.	Eels
+	147.	Elton John
+	148.	Elvis Costello
+	149.	Elvis Presley
+	150.	Emeli Sandé
+	151.	Eminem
+	152.	En Vogue
+	153.	Enya
+	154.	Eric Clapton
+	155.	Erykah Badu
+	156.	Evanescence
+	157.	Everything But the Girl
+	158.	Fairport Convention
+	159.	Faith No More
+	160.	Faithless
+	161.	Fall Out Boy
+	162.	Fatboy Slim
+	163.	Father John Misty
+	164.	FKA Twigs
+	165.	Fleet Foxes
+	166.	Fleetwood Mac
+	167.	Florence and the Machine
+	168.	Foo Fighters
+	169.	Frank Ocean
+	170.	Frank Sinatra
+	171.	Frankie Goes to Hollywood
+	172.	Franz Ferdinand
+	173.	Fugees
+	174.	Garbage
+	175.	Gary Numan
+	176.	Genesis
+	177.	George Ezra
+	178.	George Harrison
+	179.	George Michael
+	180.	Gerry Rafferty
+	181.	Gil Scott-Heron
+	182.	Gloria Estefan
+	183.	Gorillaz
+	184.	Grace Jones
+	185.	Green Day
+	186.	Grimes
+	187.	Guns N’ Roses
+	188.	Hall & Oates
+	189.	Harry Styles
+	190.	Hozier
+	191.	Hüsker Dü
+	192.	Iggy Pop
+	193.	Imagine Dragons
+	194.	Incubus
+	195.	Interpol
+	196.	Iron & Wine
+	197.	Isaac Hayes
+	198.	Jack White
+	199.	Jackson Browne
+	200.	James Brown
+	201.	James Taylor
+	202.	Jamiroquai
+	203.	Janelle Monáe
+	204.	Janis Joplin
+	205.	Jethro Tull
+	206.	Jimi Hendrix
+	207.	Jimmy Buffett
+	208.	Joan Baez
+	209.	Joan Jett
+	210.	Joe Cocker
+	211.	John Coltrane
+	212.	John Lennon
+	213.	John Mayer
+	214.	John Prine
+	215.	Johnny Cash
+	216.	Johnny Marr
+	217.	Joni Mitchell
+	218.	Journey
+	219.	Joy Division
+	220.	Judas Priest
+	221.	Justin Timberlake
+	222.	Kate Bush
+	223.	Katy Perry
+	224.	Keane
+	225.	Kendrick Lamar
+	226.	Kenny Rogers
+	227.	Kings of Leon
+	228.	Kraftwerk
+	229.	Kylie Minogue
+	230.	Lenny Kravitz
+	231.	Leonard Cohen
+	232.	Lianne La Havas
+	233.	Linkin Park
+	234.	Lionel Richie
+	235.	Little Richard
+	236.	Lizzo
+	237.	Lorde
+	238.	Lou Reed
+	239.	Louis Armstrong
+	240.	Madonna
+	241.	Manic Street Preachers
+	242.	Marvin Gaye
+	243.	Massive Attack
+	244.	Metallica
+	245.	Michael Jackson
+	246.	Miles Davis
+	247.	Morrissey
+	248.	Muse
+	249.	Nas
+	250.	Neil Young
