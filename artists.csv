@@ -5,247 +5,557 @@ Number,Artist
 4,Aerosmith
 5,A-ha
 6,Air
-7,Alanis Morissette
-8,Alice Cooper
-9,Alice in Chains
-10,Alison Krauss
-11,Allman Brothers Band
-12,Alt-J
-13,America
-14,Amy Winehouse
-15,André 3000
-16,Andrew Bird
-17,Angel Olsen
-18,Animal Collective
-19,Annie Lennox
-20,Arctic Monkeys
-21,Aretha Franklin
-22,Ariana Grande
-23,Arlo Parks
-24,Art Blakey
-25,Art Garfunkel
-26,Aswad
-27,Audioslave
-28,Avril Lavigne
-29,B.B. King
-30,Bad Company
-31,Badfinger
-32,Band of Horses
-33,Barbra Streisand
-34,Barry White
-35,Basement Jaxx
-36,Bastille
-37,Bat for Lashes
-38,Bauhaus
-39,Beach House
-40,Beastie Boys
-41,Beck
-42,Bee Gees
-43,Belle and Sebastian
-44,Ben E. King
-45,Ben Howard
-46,Beyoncé
-47,Big Star
-48,Bill Evans
-49,Billie Eilish
-50,Billie Holiday
-51,Billy Idol
-52,Billy Joel
-53,Björk
-54,Black Crowes
-55,Black Flag
-56,Black Keys
-57,Blink-182
-58,Blondie
-59,Blur
-60,Bob Dylan
-61,Bob Marley
-62,Bobby Womack
-63,Bon Iver
-64,Bon Jovi
-65,Bonnie Raitt
-66,Boston
-67,Boyz II Men
-68,Brandi Carlile
-69,Brian Eno
-70,Brian Wilson
-71,Bright Eyes
-72,Britney Spears
-73,Bruce Springsteen
-74,Bruno Mars
-75,Bryan Adams
-76,Bryan Ferry
-77,Buddy Holly
-78,Buffalo Springfield
-79,Busta Rhymes
-80,Buzzcocks
-81,Candi Staton
-82,Can
-83,Carly Rae Jepsen
-84,Carly Simon
-85,Carole King
-86,Cat Power
-87,Cat Stevens
-88,Charli XCX
-89,Charles Mingus
-90,Charlie Parker
-91,Chaka Khan
-92,Cheap Trick
-93,Chemical Brothers
-94,Chic
-95,Childish Gambino
-96,Chris Isaak
-97,Chris Stapleton
-98,Chuck Berry
-99,Clairo
-100,Clean Bandit
-101,Coldplay
-102,Counting Crows
-103,Cream
-104,Creedence Clearwater Revival
-105,"Crosby, Stills, Nash & Young"
-106,Crowded House
-107,Curtis Mayfield
-108,Daft Punk
-109,Damien Rice
-110,Daniel Caesar
-111,Danny Brown
-112,David Bowie
-113,David Byrne
-114,David Gilmour
-115,De La Soul
-116,Dead Kennedys
-117,Dean Martin
-118,Death Cab for Cutie
-119,Deep Purple
-120,Def Leppard
-121,Depeche Mode
-122,Destiny’s Child
-123,Dexys Midnight Runners
-124,Diana Ross
-125,Dido
-126,Dinosaur Jr.
-127,Dire Straits
-128,Disclosure
-129,Dizzee Rascal
-130,Dolly Parton
-131,Donovan
-132,Doobie Brothers
-133,Doves
-134,Dr. Dre
-135,Dr. John
-136,Drake
-137,Dua Lipa
-138,Duran Duran
-139,Dusty Springfield
-140,ELO
-141,Eagles
-142,"Earth, Wind & Fire"
-143,Echo & The Bunnymen
-144,Ed Sheeran
-145,Editors
-146,Eels
-147,Elton John
-148,Elvis Costello
-149,Elvis Presley
-150,Emeli Sandé
-151,Eminem
-152,En Vogue
-153,Enya
-154,Eric Clapton
-155,Erykah Badu
-156,Evanescence
-157,Everything But the Girl
-158,Fairport Convention
-159,Faith No More
-160,Faithless
-161,Fall Out Boy
-162,Fatboy Slim
-163,Father John Misty
-164,FKA Twigs
-165,Fleet Foxes
-166,Fleetwood Mac
-167,Florence and the Machine
-168,Foo Fighters
-169,Frank Ocean
-170,Frank Sinatra
-171,Frankie Goes to Hollywood
-172,Franz Ferdinand
-173,Fugees
-174,Garbage
-175,Gary Numan
-176,Genesis
-177,George Ezra
-178,George Harrison
-179,George Michael
-180,Gerry Rafferty
-181,Gil Scott-Heron
-182,Gloria Estefan
-183,Gorillaz
-184,Grace Jones
-185,Green Day
-186,Grimes
-187,Guns N’ Roses
-188,Hall & Oates
-189,Harry Styles
-190,Hozier
-191,Hüsker Dü
-192,Iggy Pop
-193,Imagine Dragons
-194,Incubus
-195,Interpol
-196,Iron & Wine
-197,Isaac Hayes
-198,Jack White
-199,Jackson Browne
-200,James Brown
-201,James Taylor
-202,Jamiroquai
-203,Janelle Monáe
-204,Janis Joplin
-205,Jethro Tull
-206,Jimi Hendrix
-207,Jimmy Buffett
-208,Joan Baez
-209,Joan Jett
-210,Joe Cocker
-211,John Coltrane
-212,John Lennon
-213,John Mayer
-214,John Prine
-215,Johnny Cash
-216,Johnny Marr
-217,Joni Mitchell
-218,Journey
-219,Joy Division
-220,Judas Priest
-221,Justin Timberlake
-222,Kate Bush
-223,Katy Perry
-224,Keane
-225,Kendrick Lamar
-226,Kenny Rogers
-227,Kings of Leon
-228,Kraftwerk
-229,Kylie Minogue
-230,Lenny Kravitz
-231,Leonard Cohen
-232,Lianne La Havas
-233,Linkin Park
-234,Lionel Richie
-235,Little Richard
-236,Lizzo
-237,Lorde
-238,Lou Reed
-239,Louis Armstrong
-240,Madonna
-241,Manic Street Preachers
-242,Marvin Gaye
-243,Massive Attack
-244,Metallica
-245,Michael Jackson
-246,Miles Davis
-247,Morrissey
-248,Muse
-249,Nas
-250,Neil Young
+7,Alan Jackson
+8,Alanis Morissette
+9,Albert King
+10,Alex G
+11,Alexander O’Neal
+12,Alice Cooper
+13,Alice in Chains
+14,Alison Krauss
+15,All Time Low
+16,Allman Brothers Band
+17,Alt-J
+18,America
+19,Amy Winehouse
+20,André 3000
+21,Andrew Bird
+22,Angel Olsen
+23,Animal Collective
+24,Annie Lennox
+25,Anthrax
+26,Aphex Twin
+27,Apocalyptica
+28,Arcade Fire
+29,Arch Enemy
+30,Arctic Monkeys
+31,Aretha Franklin
+32,Ariana Grande
+33,Arlo Parks
+34,Art Blakey
+35,Art Garfunkel
+36,Aswad
+37,Asha Bhosle
+38,Ashnikko
+39,As I Lay Dying
+40,Audioslave
+41,August Burns Red
+42,Aurora
+43,Autechre
+44,Avenged Sevenfold
+45,Avicii
+46,Avril Lavigne
+47,Ayreon
+48,B.B. King
+49,Bad Brains
+50,Bad Company
+51,Bad Religion
+52,Badfinger
+53,Band of Horses
+54,Barbra Streisand
+55,Barenaked Ladies
+56,Barry White
+57,Basement Jaxx
+58,Bastille
+59,Bat for Lashes
+60,Bauhaus
+61,Beach Boys
+62,Beach House
+63,Beastie Boys
+64,Beck
+65,Bee Gees
+66,Belle and Sebastian
+67,Ben E. King
+68,Ben Folds
+69,Ben Howard
+70,Benny Goodman
+71,Beyoncé
+72,Biffy Clyro
+73,Big Star
+74,Bill Evans
+75,Bill Withers
+76,Billie Eilish
+77,Billie Holiday
+78,Billy Idol
+79,Billy Joel
+80,Björk
+81,Black Crowes
+82,Black Flag
+83,Black Keys
+84,Black Pumas
+85,Black Veil Brides
+86,Blind Guardian
+87,Blink-182
+88,Blondie
+89,Bloodhound Gang
+90,Blu Cantrell
+91,Blur
+92,Bo Diddley
+93,Bob Dylan
+94,Bob Marley
+95,Bobby Darin
+96,Bobby Womack
+97,Bon Iver
+98,Bon Jovi
+99,Bonnie Raitt
+100,Boston
+101,Boyz II Men
+102,Brandi Carlile
+103,Branford Marsalis
+104,Brian Eno
+105,Brian Wilson
+106,Bright Eyes
+107,Britney Spears
+108,Bruce Springsteen
+109,Bruno Mars
+110,Bryan Adams
+111,Bryan Ferry
+112,Buddy Guy
+113,Buddy Holly
+114,Buffalo Springfield
+115,Busta Rhymes
+116,Buzzcocks
+117,Cab Calloway
+118,Cage the Elephant
+119,Camila Cabello
+120,Candi Staton
+121,Can
+122,Candlebox
+123,Captain Beefheart
+124,Carly Rae Jepsen
+125,Carly Simon
+126,Carole King
+127,Carpenters
+128,Cat Power
+129,Cat Stevens
+130,Charli XCX
+131,Charles Mingus
+132,Charlie Parker
+133,Chaka Khan
+134,Cheap Trick
+135,Chemical Brothers
+136,Chic
+137,Childish Gambino
+138,Chris Isaak
+139,Chris Stapleton
+140,Chuck Berry
+141,Clairo
+142,Clean Bandit
+143,Cliff Richard
+144,Cocteau Twins
+145,Coldplay
+146,Collective Soul
+147,Counting Crows
+148,Cowboy Junkies
+149,Cradle of Filth
+150,Cream
+151,Creed
+152,Creedence Clearwater Revival
+153,"Crosby, Stills, Nash & Young"
+154,Crowded House
+155,Curtis Mayfield
+156,Daft Punk
+157,Damien Rice
+158,Daniel Caesar
+159,Danny Brown
+160,David Bowie
+161,David Byrne
+162,David Gilmour
+163,Dead Kennedys
+164,De La Soul
+165,Dean Martin
+166,Death Cab for Cutie
+167,Deep Purple
+168,Def Leppard
+169,Deftones
+170,Depeche Mode
+171,Dexys Midnight Runners
+172,Diana Krall
+173,Diana Ross
+174,Dido
+175,Dinosaur Jr.
+176,Dire Straits
+177,Disclosure
+178,Dizzee Rascal
+179,Dizzy Gillespie
+180,Dolly Parton
+181,Don Henley
+182,Donovan
+183,Doobie Brothers
+184,Doris Day
+185,Doves
+186,Dr. Dre
+187,Dr. John
+188,Drake
+189,Dream Theater
+190,Dua Lipa
+191,Duran Duran
+192,Dusty Springfield
+193,Dwight Yoakam
+194,Earl Sweatshirt
+195,Echo & The Bunnymen
+196,Ed Sheeran
+197,Editors
+198,Eels
+199,Elbow
+200,ELO
+201,Eagles
+202,"Earth, Wind & Fire"
+203,Edwin Starr
+204,Elton John
+205,Elvis Costello
+206,Elvis Presley
+207,Eminem
+208,Emmylou Harris
+209,En Vogue
+210,Enya
+211,Eric B. & Rakim
+212,Eric Clapton
+213,Erykah Badu
+214,Evanescence
+215,Everly Brothers
+216,Everything But the Girl
+217,Faith No More
+218,Fall Out Boy
+219,Father John Misty
+220,Fatboy Slim
+221,Fiona Apple
+222,Fishbone
+223,FKA Twigs
+224,Fleet Foxes
+225,Fleetwood Mac
+226,Florence and the Machine
+227,Foo Fighters
+228,Frank Ocean
+229,Frank Sinatra
+230,Frank Zappa
+231,Frankie Goes to Hollywood
+232,Franz Ferdinand
+233,Fugees
+234,Fun.
+235,Garbage
+236,Gary Moore
+237,Gary Numan
+238,Genesis
+239,George Ezra
+240,George Harrison
+241,George Michael
+242,Gerry Rafferty
+243,Gil Scott-Heron
+244,Gloria Estefan
+245,Gogol Bordello
+246,Gorillaz
+247,Grace Jones
+248,Green Day
+249,Grimes
+250,Guns N’ Roses
+251,Hall & Oates
+252,Harry Nilsson
+253,Harry Styles
+254,Hozier
+255,Hüsker Dü
+256,Iggy Pop
+257,Imagine Dragons
+258,Incubus
+259,Interpol
+260,Iron & Wine
+261,Isaac Hayes
+262,Jack White
+263,Jackson Browne
+264,James Brown
+265,James Taylor
+266,Jamiroquai
+267,Janelle Monáe
+268,Janis Joplin
+269,Jethro Tull
+270,Jimi Hendrix
+271,Johnny Cash
+272,Joni Mitchell
+273,Journey
+274,Joy Division
+275,Judee Sill
+276,Judas Priest
+277,Justin Timberlake
+278,Kate Bush
+279,Katy Perry
+280,Keane
+281,Kendrick Lamar
+282,Kenny Rogers
+283,King Gizzard & the Lizard Wizard
+284,Kings of Leon
+285,Kraftwerk
+286,Kylie Minogue
+287,Lana Del Rey
+288,Lauryn Hill
+289,Led Zeppelin
+290,Leonard Cohen
+291,Lorde
+292,Lou Reed
+293,Louis Armstrong
+294,Madonna
+295,Marvin Gaye
+296,Massive Attack
+297,Michael Jackson
+298,Miles Davis
+299,Muse
+300,Neil Young
+301,Modest Mouse
+302,Moody Blues
+303,Morrissey
+304,Motorhead
+305,My Bloody Valentine
+306,My Chemical Romance
+307,N.W.A
+308,Nadia Reid
+309,Nancy Sinatra
+310,Nas
+311,Neil Diamond
+312,Neutral Milk Hotel
+313,New Order
+314,Nick Cave & The Bad Seeds
+315,Nick Drake
+316,Nick Lowe
+317,Nico
+318,Nina Simone
+319,Nine Inch Nails
+320,Nirvana
+321,No Doubt
+322,Noah Kahan
+323,Noname
+324,Norah Jones
+325,Norma Tanega
+326,Of Monsters and Men
+327,OFF!
+328,Ol’ Dirty Bastard
+329,Olivia Rodrigo
+330,OMD (Orchestral Manoeuvres in the Dark)
+331,OneRepublic
+332,Otis Redding
+333,OutKast
+334,Owl City
+335,Oasis
+336,P-Funk (Parliament-Funkadelic)
+337,Pantera
+338,Paramore
+339,Pat Benatar
+340,Patti Smith
+341,Paul McCartney
+342,Paul Simon
+343,Paulo Nutini
+344,Pearl Jam
+345,Peaches
+346,Peter Gabriel
+347,Peter Tosh
+348,Pet Shop Boys
+349,Pharrell Williams
+350,Phish
+351,Phoebe Bridgers
+352,Pink
+353,Pink Floyd
+354,Pixies
+355,Placebo
+356,Plain White T’s
+357,Poison
+358,Portishead
+359,Post Malone
+360,Primal Scream
+361,Prince
+362,Public Enemy
+363,Pulp
+364,Queen
+365,Queens of the Stone Age
+366,R.E.M.
+367,Rage Against the Machine
+368,Rainbow
+369,Ramones
+370,Randy Newman
+371,Ray Charles
+372,Red Hot Chili Peppers
+373,Regina Spektor
+374,Replacements
+375,Richard Hawley
+376,Richard Thompson
+377,Rick Astley
+378,Ricky Nelson
+379,Rihanna
+380,Rise Against
+381,Robbie Williams
+382,Robert Johnson
+383,Robert Plant
+384,Robyn
+385,Rod Stewart
+386,Roger Waters
+387,Roxy Music
+388,Roy Ayers
+389,Roy Orbison
+390,Rufus Wainwright
+391,Rush
+392,Sade
+393,Saint Etienne
+394,Sam Cooke
+395,Sam Fender
+396,Sam Smith
+397,Sampha
+398,Scissor Sisters
+399,Scott Walker
+400,Selena
+401,Shakira
+402,Shania Twain
+403,Sharon Van Etten
+404,Sheryl Crow
+405,Shocking Blue
+406,Siouxsie and the Banshees
+407,Slade
+408,Slayer
+409,Sleater-Kinney
+410,Slipknot
+411,Smashing Pumpkins
+412,Smokey Robinson
+413,Snail Mail
+414,Snoop Dogg
+415,Soft Cell
+416,Solange
+417,Soundgarden
+418,Spandau Ballet
+419,Sparks
+420,Spice Girls
+421,Spoon
+422,Squeeze
+423,St. Vincent
+424,Status Quo
+425,Steely Dan
+426,Stevie Nicks
+427,Stevie Ray Vaughan
+428,Stevie Wonder
+429,Stone Roses
+430,Stone Temple Pilots
+431,Stooges
+432,Stormzy
+433,Stranglers
+434,Strokes
+435,Sturgill Simpson
+436,Suede
+437,Sugarhill Gang
+438,Super Furry Animals
+439,Supertramp
+440,Swans
+441,Talking Heads
+442,Tame Impala
+443,Tears for Fears
+444,Teenage Fanclub
+445,Television
+446,Temptations
+447,Tenacious D
+448,Terence Trent D’Arby
+449,The 1975
+450,The Animals
+451,The Avalanches
+452,The Band
+453,The Beautiful South
+454,The Beatles
+455,The B-52’s
+456,The Byrds
+457,The Carpenters
+458,The Charlatans
+459,The Chicks
+460,The Clash
+461,The Cranberries
+462,The Cure
+463,The Damned
+464,The Darkness
+465,The Decemberists
+466,The Doobie Brothers
+467,The Drifters
+468,The Fall
+469,The Flaming Lips
+470,The Flying Burrito Brothers
+471,The Four Tops
+472,The Fray
+473,The Go-Go’s
+474,The Guess Who
+475,The Handsome Family
+476,The Hollies
+477,The Human League
+478,The Isley Brothers
+479,The Jackson 5
+480,The Jam
+481,The Killers
+482,The Kinks
+483,The La’s
+484,The Libertines
+485,The Lumineers
+486,The Mamas & the Papas
+487,The Monkees
+488,The Moody Blues
+489,The National
+490,The Offspring
+491,The O’Jays
+492,The Police
+493,The Pogues
+494,The Pretenders
+495,The Prodigy
+496,The Raconteurs
+497,The Rascals
+498,The Righteous Brothers
+499,The Rolling Stones
+500,The Ronettes
+501,The Script
+502,The Shins
+503,The Slits
+504,The Smiths
+505,The Specials
+506,The Stranglers
+507,The Strokes
+508,The Supremes
+509,The Undertones
+510,The Velvet Underground
+511,The Verve
+512,The War on Drugs
+513,The Waterboys
+514,The Weeknd
+515,The White Stripes
+516,The Who
+517,The xx
+518,Thin Lizzy
+519,Thomas Dolby
+520,Thom Yorke
+521,Three Dog Night
+522,Toots and the Maytals
+523,Tori Amos
+524,Townes Van Zandt
+525,Tracy Chapman
+526,Traffic
+527,Travis
+528,Troye Sivan
+529,TV on the Radio
+530,Twenty One Pilots
+531,Two Door Cinema Club
+532,Tyler, the Creator
+533,U2
+534,UB40
+535,Undertones
+536,Usher
+537,Van Halen
+538,Van Morrison
+539,Vangelis
+540,Velvet Underground
+541,Vince Staples
+542,Violent Femmes
+543,Tom Jones
+544,Tom Petty & The Heartbreakers
+545,Tom Waits
+546,Tony Bennett
+547,Tool
+548,Townes Van Zandt
+549,Travis Scott
+550,Tinashe
+551,Weezer
+552,Wham!
+553,Whitney Houston
+554,Wilco
+555,Willie Nelson
+556,Wolf Alice
+557,Yes
+558,Yo La Tengo
+559,Yusuf / Cat Stevens
+560,ZZ Top
